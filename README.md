@@ -26,11 +26,16 @@ It allows users to upload healthcare policy documents and ask natural language q
 ## 📂 Project Structure
 .
 ├── app.py # Flask backend API
+
 ├── utils.py # Utility functions (embeddings, similarity, etc.)
+
 ├── documents/ # Folder containing PDF documents
 │ └── sample_policy.pdf
+
 ├── requirements.txt # Python dependencies
+
 ├── .env.example # Example environment variables file
+
 ├── .gitignore # Ignore venv, .env, pycache, etc.
 └── README.md # Project documentation
 
@@ -99,4 +104,5 @@ markdown
 Copy code
 
 ---
+
 
