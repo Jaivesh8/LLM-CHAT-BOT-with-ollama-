@@ -34,8 +34,6 @@ It allows users to upload healthcare policy documents and ask natural language q
 ├── .gitignore # Ignore venv, .env, pycache, etc.
 └── README.md # Project documentation
 
-yaml
-Copy code
 
 ---
 
@@ -101,3 +99,4 @@ markdown
 Copy code
 
 ---
+
